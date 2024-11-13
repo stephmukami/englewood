@@ -13,8 +13,8 @@
 </p>
 <div align="center">
   
-  <img src="https://github.com/stephmukami/chat-crud-app/blob/master/project-pics/talker_1.PNG" alt="sign up page" width="400">
-  <img src="https://github.com/stephmukami/chat-crud-app/blob/master/project-pics/talker_2.PNG" alt="chat page" width="400">
+  <img src="https://github.com/stephmukami/englewood/blob/master/project-pics/engle1.PNG" width="400">
+  <img src="https://github.com/stephmukami/englewood/blob/master/project-pics/engle3.PNG" width="400">
 </div>
 
 
